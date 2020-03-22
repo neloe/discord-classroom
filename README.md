@@ -20,7 +20,7 @@ You will need to be in the voice channel to hear the lecture content.
 
 Find me (Nathan Eloe) in the voice chat; I will have a "LIVE" indicator when the lecture has started; select my name and choose "Watch Stream" (or double click my username). See [How do I watch a stream?](https://support.discordapp.com/hc/en-us/articles/360030714312-Stream-your-game-with-Go-Live-#h_671405f5-793e-41ee-a806-e2ab7c2d92f3) for more details.
 
-## Lecture Rules/Etiquitte
+## Lecture Rules/Etiquette
 
 * Be polite; this is a difficult time for many people
 * Be professional; you will be muted/kicked if you are being inappropriate.
