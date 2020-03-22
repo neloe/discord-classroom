@@ -8,6 +8,8 @@ There is a specific text channel for each course; the contents of this channel w
 
 The text channel will start with `lecture-` followed by a short name for the course.  For example, if you are tuning in to participate in the Survey of Algorithms lecture, you should join (double click) the `lecture-algorithms` text chat.
 
+If you don't want to (or can't) ask questions verbally, this is the place to do so!
+
 ## Join the General Voice Channel
 
 All lecture audio will come through the General voice channel.
@@ -26,3 +28,4 @@ Find me (Nathan Eloe) in the voice chat; I will have a "LIVE" indicator when the
 * Be professional; you will be muted/kicked if you are being inappropriate.
 * Be understanding; this is new for all of us... we'll figure it out
 * Keep questions geared toward lecture material.  Questions about course structure, grades, specific assignments, etc should be moved to office hours, direct message, or email.  This will help keep the lectures 
+* You may (and should) direct message GAs and TAs with specific questions during the lecture!
