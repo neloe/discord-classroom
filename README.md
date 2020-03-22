@@ -11,14 +11,14 @@ The text channel will start with `lecture-` followed by a short name for the cou
 ## Join the General Voice Channel
 
 All lecture audio will come through the General voice channel.
-This is also where students can ask questions using their microphones.  Out of politeness you may want to enable [https://support.discordapp.com/hc/en-us/articles/211376518-Voice-Input-Modes-101-Push-to-Talk-Voice-Activated-] Push To Talk, or mute yourself when you are not asking questions.
+This is also where students can ask questions using their microphones.  Out of politeness you may want to enable [Push To Talk](https://support.discordapp.com/hc/en-us/articles/211376518-Voice-Input-Modes-101-Push-to-Talk-Voice-Activated-), or mute yourself when you are not asking questions.
 If you are determined to be the source of distracting ambient noise you will be muted and have to ask your questions through the text channel.
 
 You will need to be in the voice channel to hear the lecture content.
 
 ## Watch the streamed lecture
 
-Find me (Nathan Eloe) in the voice chat; I will have a "LIVE" indicator when the lecture has started; select my name and choose "Watch Stream" (or double click my username). See [https://support.discordapp.com/hc/en-us/articles/360030714312-Stream-your-game-with-Go-Live-#h_671405f5-793e-41ee-a806-e2ab7c2d92f3](How do I watch a stream?) for more details.
+Find me (Nathan Eloe) in the voice chat; I will have a "LIVE" indicator when the lecture has started; select my name and choose "Watch Stream" (or double click my username). See [How do I watch a stream?](https://support.discordapp.com/hc/en-us/articles/360030714312-Stream-your-game-with-Go-Live-#h_671405f5-793e-41ee-a806-e2ab7c2d92f3) for more details.
 
 ## Lecture Rules/Etiquitte
 
