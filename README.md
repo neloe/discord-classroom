@@ -13,10 +13,12 @@ If you don't want to (or can't) ask questions verbally, this is the place to do 
 ## Join the General Voice Channel
 
 All lecture audio will come through the General voice channel.
-This is also where students can ask questions using their microphones.  Out of politeness you may want to enable [Push To Talk](https://support.discordapp.com/hc/en-us/articles/211376518-Voice-Input-Modes-101-Push-to-Talk-Voice-Activated-), or mute yourself when you are not asking questions.
+This is also where students can ask questions using their microphones.  Out of politeness enable [Push To Talk](https://support.discordapp.com/hc/en-us/articles/211376518-Voice-Input-Modes-101-Push-to-Talk-Voice-Activated-), or mute yourself when you are not asking questions.
 If you are determined to be the source of distracting ambient noise you will be muted and have to ask your questions through the text channel.
 
 You will need to be in the voice channel to hear the lecture content.
+
+*Important Reminder*: All voices will be recorded for the lecture archive.  If you say things in the voice chat during the lecture you will be recorded.
 
 ## Watch the streamed lecture
 
