@@ -31,3 +31,4 @@ Find me (Nathan Eloe) in the voice chat; I will have a "LIVE" indicator when the
 * Be understanding; this is new for all of us... we'll figure it out
 * Keep questions geared toward lecture material.  Questions about course structure, grades, specific assignments, etc should be moved to office hours, direct message, or email.  This will help keep the lectures 
 * You may (and should) direct message GAs and TAs with specific questions during the lecture!
+* If you want to ask a question in the text channel during lecture, send a message that is just "q"; this will let me know that I should pause and wait for a question!
